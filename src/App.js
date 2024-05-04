@@ -6,7 +6,7 @@ function App() {
       <h1>Demo GitHub Actions App</h1>
       <br />
       <br />
-      <p>Hosted using GitHub Pages.</p>
+      <p>Hosted using GitHub Pages</p>
     </div>
   );
 }
